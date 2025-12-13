@@ -156,5 +156,3 @@ gcc program_name.c -o program_name
 Systems Engineer | OS Internals & Infrastructure  
 GitHub: https://github.com/rohiths0402
 
-gcc program_name.c -o program_name
-./program_name
